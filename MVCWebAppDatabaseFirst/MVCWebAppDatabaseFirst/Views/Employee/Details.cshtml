@@ -1,0 +1,42 @@
+﻿@model MVCWebAppDatabaseFirst.EmployeeTable
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>EmployeeTable</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.EmployeeName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmployeeName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EmployeeSalary)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmployeeSalary)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EmployeeCity)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmployeeCity)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.EmployeeID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

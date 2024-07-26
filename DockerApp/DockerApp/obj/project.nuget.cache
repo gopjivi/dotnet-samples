@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4teJ3IeRUt3HKvKtPRoWkic0pFx2TVbQuEZDxwu2vmE30KajvgJdvFRkZFYrcM8Suxb5TE/jxpV0d2WtEF86Lg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gopal\\source\\repos\\DockerApp\\DockerApp\\DockerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gopal\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}

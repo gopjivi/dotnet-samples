@@ -1,0 +1,7 @@
+C:\Users\gopal\source\repos\samplehosttosamewebapp\samplehosttosamewebapp\bin\samplehosttosamewebapp.dll.config
+C:\Users\gopal\source\repos\samplehosttosamewebapp\samplehosttosamewebapp\bin\samplehosttosamewebapp.dll
+C:\Users\gopal\source\repos\samplehosttosamewebapp\samplehosttosamewebapp\bin\samplehosttosamewebapp.pdb
+C:\Users\gopal\source\repos\samplehosttosamewebapp\samplehosttosamewebapp\obj\Release\samplehosttosamewebapp.csproj.AssemblyReference.cache
+C:\Users\gopal\source\repos\samplehosttosamewebapp\samplehosttosamewebapp\obj\Release\samplehosttosamewebapp.csproj.CoreCompileInputs.cache
+C:\Users\gopal\source\repos\samplehosttosamewebapp\samplehosttosamewebapp\obj\Release\samplehosttosamewebapp.dll
+C:\Users\gopal\source\repos\samplehosttosamewebapp\samplehosttosamewebapp\obj\Release\samplehosttosamewebapp.pdb
